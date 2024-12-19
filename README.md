@@ -10,7 +10,7 @@ Below are some of the things I wish to accomplish in completing the challenge
 
 ## Code
 - I will list the names of files with code I want to refer to later here
-    [ ] codingpromise.py
+- **codingpromise.py**
 
 ## Goals
 - I will list coding goals I wish to acheive here
