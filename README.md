@@ -6,11 +6,11 @@ Below are some of the things I wish to accomplish in completing the challenge
 - Build and modify projects that I can use in the future
 
 ## Projects
-- I will list projects I complete here
+I will list projects I complete here
 
 ## Code
-- I will list the names of files with code I want to refer to later here
+I will list the names of files with code I want to refer to later here
 - **codingpromise.py**
 
 ## Goals
-- I will list coding goals I wish to acheive here
+I will list coding goals I wish to acheive here
