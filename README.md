@@ -9,7 +9,8 @@ Below are some of the things I wish to accomplish in completing the challenge
 - I will list projects I complete here
 
 ## Code
-- I will list files with code I want to refer to later here
+- I will list the names of files with code I want to refer to later here
+[] codingpromise.py
 
 ## Goals
 - I will list coding goals I wish to acheive here
