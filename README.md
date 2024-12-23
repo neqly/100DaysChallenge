@@ -11,6 +11,7 @@ I will list projects I complete here
 ## Code
 I will list the names of files with code I want to refer to later here
 - **codingpromise.py**
+- **pythonpizza.py**
 
 ## Goals
 I will list coding goals I wish to acheive here
