@@ -7,7 +7,7 @@ Below are some of the things I wish to accomplish in completing the challenge
 
 ## Projects
 **Refer to projects folder**
-Contains both personal and Udemy projects
+- Contains both personal and Udemy projects
 
 ## Code
 Most exercises outside of projects will be at root level
