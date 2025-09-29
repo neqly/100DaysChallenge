@@ -6,12 +6,11 @@ Below are some of the things I wish to accomplish in completing the challenge
 - Build and modify projects that I can use in the future
 
 ## Projects
-I will list projects I complete here
+**Refer to projects folder**
+Contains both personal and Udemy projects
 
 ## Code
-I will list the names of files with code I want to refer to later here
-- **codingpromise.py**
-- **pythonpizza.py**
+Most exercises outside of projects will be at root level
 
 ## Goals
 I will list coding goals I wish to acheive here
