@@ -1,4 +1,4 @@
-# Python + Web Dev 100 Days of Code Challenge by Udemy
+# 100 Days of Code Challenge by Udemy
 This is going to be documentation for my progress through the course
 Below are some of the things I wish to accomplish in completing the challenge
 - Become more proficient in Python, web dev languages, and coding in general
